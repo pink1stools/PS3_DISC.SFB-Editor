@@ -1,0 +1,13 @@
+C:\Users\Home\source\repos\sbf\sbf\bin\Debug\sfb.exe.config
+C:\Users\Home\source\repos\sbf\sbf\bin\Debug\sfb.exe
+C:\Users\Home\source\repos\sbf\sbf\bin\Debug\sfb.pdb
+C:\Users\Home\source\repos\sbf\sbf\obj\Debug\sfb.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\sbf\sbf\obj\Debug\sfb.exe
+C:\Users\Home\source\repos\sbf\sbf\obj\Debug\sfb.pdb
+C:\Users\Home\source\repos\sfb\sfb\bin\Debug\sfb.exe.config
+C:\Users\Home\source\repos\sfb\sfb\bin\Debug\sfb.exe
+C:\Users\Home\source\repos\sfb\sfb\bin\Debug\sfb.pdb
+C:\Users\Home\source\repos\sfb\sfb\obj\Debug\sfb.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\sfb\sfb\obj\Debug\sfb.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\sfb\sfb\obj\Debug\sfb.exe
+C:\Users\Home\source\repos\sfb\sfb\obj\Debug\sfb.pdb

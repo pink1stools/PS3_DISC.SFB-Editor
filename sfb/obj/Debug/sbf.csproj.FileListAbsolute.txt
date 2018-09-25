@@ -1,0 +1,7 @@
+C:\Users\Home\source\repos\sbf\sbf\obj\Debug\sbf.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\sbf\sbf\obj\Debug\sbf.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\sbf\sbf\bin\Debug\sbf.exe.config
+C:\Users\Home\source\repos\sbf\sbf\bin\Debug\sbf.exe
+C:\Users\Home\source\repos\sbf\sbf\bin\Debug\sbf.pdb
+C:\Users\Home\source\repos\sbf\sbf\obj\Debug\sbf.exe
+C:\Users\Home\source\repos\sbf\sbf\obj\Debug\sbf.pdb
